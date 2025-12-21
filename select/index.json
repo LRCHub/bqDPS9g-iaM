@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "OSCA",
+  "base_artist": "Tokyo Incidents",
+  "createdAt": "2025-12-21T10:34:16.946284Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OSCA",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/01_OSCA_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "OSCA",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/02_OSCA_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Osca-R",
+      "artist": "Taucher & DJ Tandu",
+      "has_synced": true,
+      "path": "select/03_Osca-R_Taucher_&_DJ_Tandu.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Osca-R",
+      "artist": "Taucher",
+      "has_synced": true,
+      "path": "select/04_Osca-R_Taucher.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Osca-R",
+      "artist": "Taucher & Tandu, DJ",
+      "has_synced": true,
+      "path": "select/05_Osca-R_Taucher_&_Tandu,_DJ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "OSCA",
+      "artist": "Tokyo Incidents",
+      "has_synced": true,
+      "path": "select/06_OSCA_Tokyo_Incidents.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "OSCA",
+      "artist": "Tokyo Jihen",
+      "has_synced": true,
+      "path": "select/07_OSCA_Tokyo_Jihen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "OSCA",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_01_OSCA_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "OSCA",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_02_OSCA_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "OSCA",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_03_OSCA_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "OSCA",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_04_OSCA_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Osca",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_05_Osca_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "OSCA",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_06_OSCA_東京事変.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "OSCA",
+      "artist": "東京事変",
+      "has_synced": false,
+      "path": "select/pl_07_OSCA_東京事変.txt"
+    }
+  ]
+}
